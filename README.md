@@ -1,4 +1,14 @@
-### Hi there 👋
+
+<h1 align="center"> Vitoria Oliveira 😄 </h1>
+![Hello](https://user-images.githubusercontent.com/95696694/149988931-f2d126c9-06b2-450b-85b4-2c37895f620b.png)
+##About me
+-I'm from São Paulo, Brazil 📍
+-Web Full Stack Development Student 👩🏻‍💻
+-Computer Engineer Student 🤖
+-Working on SumUp - Facilities Assistant I 👩🏻‍💼
+
+##Learning
+
 
 <!--
 **viisoli/viisoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--### Hii, I'm Vitoria 👋>
