@@ -1,5 +1,5 @@
 ### Hi, I'm Vitoria Oliveira 👋
-![Vitoria](https://user-images.githubusercontent.com/95696694/150194973-fe9c0089-70cf-4bd7-a506-2028fbb3be7c.png)
+![Capa - Vitoria Oliveira](https://user-images.githubusercontent.com/95696694/150201206-d34c9eee-6575-46a9-8b69-6d15bb1b10d8.png)
 
 ### About Me
 - Computer Engineering Student 👩🏻‍💻
