@@ -4,7 +4,7 @@
 ### About Me
 - Computer Engineering Student 👩🏻‍💻
 - Web Full Stack Development Student | Generation 🖥️
-- Facilities Assitant I | SumUp 👩🏻‍💼
+- Junior Software Engineer | SumUp 👩🏻‍💼
 - São Paulo, Brazil 📍
 
 ### Learning 
