@@ -2,8 +2,6 @@
 - Computer Engineering Student 👩🏻‍💻
 - Junior Software Engineer | SumUp 👩🏻‍💼
 - São Paulo, Brazil 📍
-
-[Snake animation](https://github.com/viisoli/viisoli/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 **viisoli/viisoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
