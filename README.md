@@ -3,7 +3,7 @@
 
 
 ### About Me
-- Computer Engineering Student 👩🏻‍💻
+- Computer Engineer
 - Software Engineer | SumUp 👩🏻‍💼
 - São Paulo, Brazil 📍
 
